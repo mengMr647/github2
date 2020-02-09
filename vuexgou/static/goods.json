@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "name":"鱼香肉丝",
+        "price":12,
+        "number":1,
+        "flag":false
+    },
+    {
+        "id":2,
+        "name":"宫保鸡丁",
+        "price":14,
+        "number":1,
+        "flag":false
+    },
+    {
+        "id":3,
+        "name":"土豆丝",
+        "price":10,
+        "number":1,
+        "flag":false
+    },
+    {
+        "id":4,
+        "name":"米饭",
+        "price":2,
+        "number":1,
+        "flag":false
+    }
+]
